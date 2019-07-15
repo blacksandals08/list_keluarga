@@ -3,3 +3,4 @@ LIST KELUARGA
   - Ayah : Bapak A
   - Ibu : Ibu A
   - Anak : anak1,anak2,anak3,anak4
+  - Cucu : 2dariAnak1
