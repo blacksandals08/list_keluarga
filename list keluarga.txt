@@ -2,5 +2,5 @@ LIST KELUARGA
 -------------
   - Ayah : Bapak A
   - Ibu : Ibu A
-  - Anak : anak1,anak2,anak3,anak4,anak5
+  - Anak : anak1,anak2,anak3
   - Cucu : 2dariAnak1,2dariAnak2,1dariAnak3
